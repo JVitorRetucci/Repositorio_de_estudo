@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Repositório para Estudos
+=======
+﻿# Reposítório para estudos
+>>>>>>> bd83ab87f3a7d08746b6576bd8bd68bc0fca2e81
 ## Criando pasta
 
 + Criar pasta:
@@ -35,10 +39,17 @@ git add <nome_do_arquivo> // Adicionar apenas um arquivo.
 git add .<extensao> // Todos arquivos da extensão desejada.
 ```
 
+<<<<<<< HEAD
 + Commit:
 
 ```
 git commit -m "<nome_do_commit>"
+=======
++Commit:
+
+```
+git commit -m "Nome do commit"
+>>>>>>> bd83ab87f3a7d08746b6576bd8bd68bc0fca2e81
 ```
 
 + Verificando alterações(Depois do commit):
@@ -48,6 +59,7 @@ git log -p // Com todos os detalhes.
 git log --pretty=oneline // Apenas linhas.
 gitk // Visual grafico;
 ```
+<<<<<<< HEAD
 
 + Modificando commit:
 
@@ -56,6 +68,8 @@ Depois de fazer todas as alterações, digitar:
 ```
 git commit --amend -m "<nome_do_commit>"
 ```
+=======
+>>>>>>> bd83ab87f3a7d08746b6576bd8bd68bc0fca2e81
 
 ## Algus comandos
 
