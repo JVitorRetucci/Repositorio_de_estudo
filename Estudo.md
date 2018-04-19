@@ -19,7 +19,7 @@ touch <nome-do-arquivo.extensão>
 
 + Se localizando:
 
-        Comando "ls"
+ls
 
 ## Algus comandos
 
