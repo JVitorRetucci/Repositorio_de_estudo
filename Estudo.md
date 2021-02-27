@@ -51,6 +51,6 @@ gitk // Visual grafico;
 
 ## Algus comandos
 
-+ Feito por leocomelli:
++ Feito por [leocomelli](https://github.com/leocomelli/):
 
 https://gist.github.com/leocomelli/2545add34e4fec21ec16
